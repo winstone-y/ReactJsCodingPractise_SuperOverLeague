@@ -1,0 +1,9 @@
+/* Write your code here. */
+#root {
+  font-family: "Roboto";
+  background-color: #0f172a;
+}
+.heading {
+  font-size: 32px;
+  color: #f8fafc;
+}
